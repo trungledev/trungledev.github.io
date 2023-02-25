@@ -1,0 +1,10 @@
+body {
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.nav-item {
+    padding-left: 2rem;
+}
+a{
+    text-decoration: none;
+}
